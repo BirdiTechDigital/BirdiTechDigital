@@ -44,7 +44,7 @@
   <p class="contacto">
       🏠 Web: <a href="https://www.birdi.digital" target="_blank">www.birdi.digital</a><br>
       ✉️ Email: <a href="mailto:agenciabirdi@gmail.com ">agenciabirdi@gmail.com </a><br>
-      📱 Teléfono: 624 80 47 55<br>
+      📲  Teléfono: 624 80 47 55<br>
       👥 LinkedIn: <a href="https://www.linkedin.com/in/agencia-birditech-83b865352/" target="_blank">linkedin.com/birditech</a><br>
       👔 InfoJobs: <a href="https://www.infojobs.net/birditech/em-i98555351504452667382682025114582209287" target="_blank">infoJobs.com/birditech</a><br>    
       🎧 Instagram: <a href="https://www.instagram.com/agenciabirditech/profilecard/?igsh=MTV0dmM0ajVkNWpyMw==" target="_blank">@birditech</a>
